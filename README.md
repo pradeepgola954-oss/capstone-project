@@ -13,19 +13,19 @@ Security Groups and proper network settings are used to keep the application saf
 The system can handle failures and traffic spikes without manual intervention.
 # Virtual Private Cloud (VPC)
 <img width="3658" height="2625" alt="VPC" src="https://github.com/user-attachments/assets/ed23bffe-db95-43c7-bc84-2afcbb0c70ce" />
-# Step 1: Create the VPC
+ # Step 1: Create the VPC
 
-# ►First, I went to the VPC Dashboard in the AWS Management Console and clicked on ‘Create VPC’. 
+ ► First, I went to the VPC Dashboard in the AWS Management Console and clicked on ‘Create VPC’. 
 
-# ►Then, I gave a name to my VPC, for example ‘Ap-South-1’, so that I can easily identify it.
+ ► Then, I gave a name to my VPC, for example ‘Ap-South-1’, so that I can easily identify it.
 
-# ►After that, I defined the IPv4 CIDR block as 192.168.0.0/24. This range provides private IP addresses for the resources inside my VPC.
+ ► After that, I defined the IPv4 CIDR block as 192.168.0.0/24. This range provides private IP addresses for the resources inside my VPC.
 
-# ►I did not select IPv6 because it was not required for my project.
+ ► I did not select IPv6 because it was not required for my project.
 
-# ►For tenancy, I selected ‘Default’, which means instances will run on shared hardware, helping to reduce cost.
+ ► For tenancy, I selected ‘Default’, which means instances will run on shared hardware, helping to reduce cost.
 
-# ►Finally, I clicked on ‘Create VPC’ to complete the setup.
+ ► Finally, I clicked on ‘Create VPC’ to complete the setup.
 
 <img width="1920" height="1080" alt="VPC-Project-1" src="https://github.com/user-attachments/assets/ee10d987-0845-4750-9ad7-74e64fbd3131" />
 
