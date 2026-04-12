@@ -117,6 +117,40 @@ The system can handle failures and traffic spikes without manual intervention.
 
 <img width="1920" height="1080" alt="12-RT Edit-Public-Subnet Accociation" src="https://github.com/user-attachments/assets/c75a1e63-80bb-491a-b92c-9f5278c58edc" />
 
+# Step 6: Create NAT Gateway (for Private Subnets)
+
+► In this step, I created a NAT Gateway to allow private subnets to access the internet securely.
+
+► First, I went to the VPC Dashboard and selected ‘NAT Gateways’, then clicked on ‘Create NAT Gateway’.
+
+► I selected one of the public subnets, for example ‘Public_Subnet_1A’, because a NAT Gateway must be placed in a public subnet.
+
+► Then, I allocated an Elastic IP, which provides a static public IP address for the NAT Gateway.
+
+► After that, I clicked on ‘Create NAT Gateway’.
+
+► Once the NAT Gateway was created, I went back to the ‘Route Tables’ section and created a new route table for the private subnets.
+
+► In this route table, I added a route with destination 0.0.0.0/0 and selected the NAT Gateway as the target.
+
+► Finally, I associated this route table with the private subnets.
+
+<img width="1920" height="1080" alt="15-Net-Getway" src="https://github.com/user-attachments/assets/b301058c-42a0-47fb-bfb1-2243ddabbfb8" />
+
+<img width="1920" height="1080" alt="16-Create Net- GetWay" src="https://github.com/user-attachments/assets/39fdbdcc-e619-44c1-997d-f59564b3fe74" />
+
+<img width="1920" height="1080" alt="17-Main-Route-Table or Private Subnet" src="https://github.com/user-attachments/assets/7cc58d9d-5722-4ba5-b98c-08b32fbdaf1a" />
+
+<img width="1920" height="1080" alt="18-Main-Route- Add Route" src="https://github.com/user-attachments/assets/97194d32-3731-4ff2-8dd1-dfe87768dff3" />
+
+<img width="1920" height="1080" alt="19-Main-Route table Add Net Getway" src="https://github.com/user-attachments/assets/3a6b63e8-e9ab-4a2a-a50b-683b5b3e0583" />
+
+
+
+
+
+
+
 
 
 
