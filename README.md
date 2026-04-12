@@ -57,9 +57,33 @@ The system can handle failures and traffic spikes without manual intervention.
 
 <img width="1920" height="1020" alt="Public-Subnet-1A" src="https://github.com/user-attachments/assets/89df6495-80ee-4f01-8d40-ed6c27fe2139" />
 
-# ► This setup ensures that I have both public and private subnets distributed across multiple Availability Zones, which helps in achieving high availability and better 
+► This setup ensures that I have both public and private subnets distributed across multiple Availability Zones, which helps in achieving high availability and better 
 
  <img width="1920" height="1080" alt="Four- Subnet" src="https://github.com/user-attachments/assets/208b198e-5bcd-48cd-8e3a-82360b91390e" />
+
+ # Step 3: Set Up Internet Gateway
+
+ In this step, I created and attached an Internet Gateway to my VPC to enable internet connectivity.
+
+► First, I went to the VPC Dashboard and selected ‘Internet Gateways’, then clicked on ‘Create Internet Gateway’.
+
+► I provided a name, for example ‘IGW-Ap-South-1’, and clicked on ‘Create’.
+
+► After creating it, I selected the Internet Gateway, went to the ‘Actions’ menu, and clicked on ‘Attach to VPC’.
+
+► Then, I selected my VPC from the list and clicked on ‘Attach’ to complete the process.
+
+► This allows resources in the public subnet to communicate with the internet
+
+<img width="1920" height="1080" alt="8-Create-Internet-Getway" src="https://github.com/user-attachments/assets/94c5cf7c-367d-4d90-ade3-1b37861a6207" />
+
+
+
+
+
+
+
+
 
  
 
