@@ -99,6 +99,15 @@ The system can handle failures and traffic spikes without manual intervention.
 
 ► This configuration allows resources in the public subnet to access the internet.
 
+<img width="1920" height="1080" alt="11-RT-For- Public" src="https://github.com/user-attachments/assets/29a0dbd0-5253-483b-b6a1-952646513544" />
+
+<img width="1920" height="1080" alt="13-RT-four Public Add- Route" src="https://github.com/user-attachments/assets/f781e49f-6739-40b5-bb59-663d571fc265" />
+
+<img width="1920" height="1080" alt="14-RT-foue-Public-Add- internat-Getway" src="https://github.com/user-attachments/assets/27c5076b-6f88-46e5-9e02-c1a51da9281c" />
+
+
+
+
 
 
 
