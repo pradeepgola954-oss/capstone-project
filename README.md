@@ -24,6 +24,8 @@ I did not select IPv6 because it was not required for my project.
 
 For tenancy, I selected ‘Default’, which means instances will run on shared hardware, helping to reduce cost.
 
-Finally, I clicked on ‘Create VPC’ to complete the setup.<img width="1920" height="1080" alt="VPC Project-2" src="https://github.com/user-attachments/assets/a247ba76-3f9d-41a4-82f5-6693ded90eb0" />
 <img width="1920" height="1080" alt="VPC-Project-1" src="https://github.com/user-attachments/assets/ee10d987-0845-4750-9ad7-74e64fbd3131" />
+
+Finally, I clicked on ‘Create VPC’ to complete the setup.<img width="1920" height="1080" alt="VPC Project-2" src="https://github.com/user-attachments/assets/a247ba76-3f9d-41a4-82f5-6693ded90eb0" />
+
 
