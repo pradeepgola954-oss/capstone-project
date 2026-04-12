@@ -30,5 +30,30 @@ The system can handle failures and traffic spikes without manual intervention.
 <img width="1920" height="1080" alt="VPC-Project-1" src="https://github.com/user-attachments/assets/ee10d987-0845-4750-9ad7-74e64fbd3131" />
 
 <img width="1920" height="1080" alt="VPC Project-2" src="https://github.com/user-attachments/assets/a247ba76-3f9d-41a4-82f5-6693ded90eb0" />
+# Step 2: Create Subnets
+ ► First, I went to the VPC Dashboard and clicked on ‘Subnets’, then selected ‘Create subnet’.
 
+ ► I selected my previously created VPC from the dropdown list.
+
+ ► Then, I created four subnets across two Availability Zones to ensure high availability.
+
+ ► For the first subnet, I named it ‘Public_Subnet_1A’, selected the Availability Zone ‘ap-south-1a’, and assigned the CIDR block 192.168.0.0/26.
+
+ ► For the second subnet, I named it ‘Public_Subnet_1B’, used the same Availability Zone ‘ap-south-1a’, and assigned the CIDR block 192.168.0.64/26.
+
+ ► Next, I created a third subnet named ‘Private_Subnet_1A’ in Availability Zone ‘ap-south-1b’ with CIDR block 192.168.0.128
+/26.
+
+ ► Finally, I created the fourth subnet ‘Private_Subnet_1B’ in ‘ap-south-1b’ with CIDR block 192.168.0.192/26.
+
+ ► This setup ensures that I have both public and private subnets distributed across multiple Availability Zones, which helps in achieving high availability and better 
+ 
+ <img width="1920" height="1080" alt="Private-Subnet-1A" src="https://github.com/user-attachments/assets/f0ecca98-6684-4072-a532-988c0843af0e" />
+
+<img width="1920" height="1080" alt="Private-Subnet-1B" src="https://github.com/user-attachments/assets/46153418-e67d-4cd7-a148-9a48ddb0ca3b" />
+
+.
+<img width="1920" height="1080" alt="Public-Subnet-1B" src="https://github.com/user-attachments/assets/add77e3a-c311-49a8-bf13-c039cf088877" />
+
+<img width="1920" height="1020" alt="Public-Subnet-1A" src="https://github.com/user-attachments/assets/89df6495-80ee-4f01-8d40-ed6c27fe2139" />
 
