@@ -57,7 +57,7 @@ The system can handle failures and traffic spikes without manual intervention.
 
 <img width="1920" height="1020" alt="Public-Subnet-1A" src="https://github.com/user-attachments/assets/89df6495-80ee-4f01-8d40-ed6c27fe2139" />
 
- ► This setup ensures that I have both public and private subnets distributed across multiple Availability Zones, which helps in achieving high availability and better 
+# ► This setup ensures that I have both public and private subnets distributed across multiple Availability Zones, which helps in achieving high availability and better 
 
  <img width="1920" height="1080" alt="Four- Subnet" src="https://github.com/user-attachments/assets/208b198e-5bcd-48cd-8e3a-82360b91390e" />
 
