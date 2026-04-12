@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="9-Attach four VPC" src="https://github.com/user-attachments/assets/4968add2-f06e-4757-94d9-8b420ea30716" />
 # Resilient and Scalable Web Application Deployment on AWS
 This project is about building a secure, scalable, and highly available web application on AWS.
 The architecture is designed in a way that the application can handle high traffic and still work without downtime.
@@ -77,10 +78,7 @@ The system can handle failures and traffic spikes without manual intervention.
 
 <img width="1920" height="1080" alt="8-Create-Internet-Getway" src="https://github.com/user-attachments/assets/94c5cf7c-367d-4d90-ade3-1b37861a6207" />
 
-
-
-
-
+<img width="1920" height="1080" alt="9-Attach four VPC" src="https://github.com/user-attachments/assets/993cddd7-f784-47a2-a52b-fd712b4c36c7" />
 
 
 
