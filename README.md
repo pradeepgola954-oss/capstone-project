@@ -17,7 +17,7 @@ The system can handle failures and traffic spikes without manual intervention.
 
  ► First, I went to the VPC Dashboard in the AWS Management Console and clicked on ‘Create VPC’. 
 
- ► Then, I gave a name to my VPC, for example ‘Ap-South-1’, so that I can easily identify it.
+ ► Then, I gave a name to my VPC, for example ‘My Project VPC’, so that I can easily identify it.
 
  ► After that, I defined the IPv4 CIDR block as 192.168.0.0/24. This range provides private IP addresses for the resources inside my VPC.
 
