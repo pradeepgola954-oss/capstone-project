@@ -87,7 +87,7 @@ The system can handle failures and traffic spikes without manual intervention.
 
 ► First, I went to the VPC Dashboard and selected ‘Route Tables’, then clicked on ‘Create route table’.
 
-► I provided a name, for example ‘Main RT’, and selected my VPC from the dropdown list, then clicked on ‘Create’.
+► I provided a name, for example ‘RT For Public’, and selected my VPC from the dropdown list, then clicked on ‘Create’.
 
 ► After creating the route table, I selected it and went to the ‘Routes’ section.
 
@@ -104,6 +104,19 @@ The system can handle failures and traffic spikes without manual intervention.
 <img width="1920" height="1080" alt="13-RT-four Public Add- Route" src="https://github.com/user-attachments/assets/f781e49f-6739-40b5-bb59-663d571fc265" />
 
 <img width="1920" height="1080" alt="14-RT-foue-Public-Add- internat-Getway" src="https://github.com/user-attachments/assets/27c5076b-6f88-46e5-9e02-c1a51da9281c" />
+
+# Step 5: Associate Route Tables with Subnets
+
+►  First, I selected the route table and went to the ‘Subnet Associations’ tab.
+
+►  Then, I clicked on ‘Edit subnet associations’.
+
+►  After that, I selected the public subnets, which are ‘Public_Subnet_1A’ and ‘Public_Subnet_2B’.
+
+►  Finally, I clicked on ‘Save’ to apply the changes.
+
+<img width="1920" height="1080" alt="12-RT Edit-Public-Subnet Accociation" src="https://github.com/user-attachments/assets/c75a1e63-80bb-491a-b92c-9f5278c58edc" />
+
 
 
 
