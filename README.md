@@ -81,6 +81,24 @@ The system can handle failures and traffic spikes without manual intervention.
 
 <img width="1920" height="1080" alt="9-Attach four VPC" src="https://github.com/user-attachments/assets/993cddd7-f784-47a2-a52b-fd712b4c36c7" />
 
+<img width="1920" height="1080" alt="10-Attach Internet Getway" src="https://github.com/user-attachments/assets/768d422f-60f6-4499-8953-41efbc431ff9" />
+
+# Step 4: Create Route Tables
+
+► First, I went to the VPC Dashboard and selected ‘Route Tables’, then clicked on ‘Create route table’.
+
+► I provided a name, for example ‘Main RT’, and selected my VPC from the dropdown list, then clicked on ‘Create’.
+
+► After creating the route table, I selected it and went to the ‘Routes’ section.
+
+► I clicked on ‘Edit routes’ and added a new route with destination 0.0.0.0/0, which represents all internet traffic.
+
+► For the target, I selected the Internet Gateway that I had created earlier.
+
+► Finally, I clicked on ‘Save routes’ to apply the changes.
+
+► This configuration allows resources in the public subnet to access the internet.
+
 
 
 
