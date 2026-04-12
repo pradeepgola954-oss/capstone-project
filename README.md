@@ -1,8 +1,9 @@
-<img width="1920" height="1080" alt="9-Attach four VPC" src="https://github.com/user-attachments/assets/4968add2-f06e-4757-94d9-8b420ea30716" />
 # Resilient and Scalable Web Application Deployment on AWS
+
 This project is about building a secure, scalable, and highly available web application on AWS.
 The architecture is designed in a way that the application can handle high traffic and still work without downtime.
 It uses multiple AWS services and Availability Zones to ensure better performance and reliability.
+
 # Project Objectives
 # • High Availability:
 The application runs in multiple Availability Zones so it stays available even if one zone fails.
