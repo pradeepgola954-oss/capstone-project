@@ -1,5 +1,7 @@
 <img width="3846" height="4425" alt="Final_Dia_CloudFolks_Capstone_1" src="https://github.com/user-attachments/assets/ae353b52-cd7a-49d7-93cd-1c3de9c23fe8" />
+
 # Step 2: Create the Security Group
+
 ► First, I went to the VPC Dashboard in the AWS Management Console and clicked on ‘Security Groups’, then selected ‘Create security group’.
 
 ► Then, I gave a name to my security group as ‘EFS-SG Project-1’ so that it can be easily identified.
