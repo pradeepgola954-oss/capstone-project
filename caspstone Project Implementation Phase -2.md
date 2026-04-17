@@ -63,6 +63,21 @@
 
 <img width="1920" height="1080" alt="9-Web-Server-AMI and EFS" src="https://github.com/user-attachments/assets/dc1c59eb-f317-4bf0-873a-ba714db0121e" />
 
+ # Step 4: Application Deployment
+ 
+  CodeDeployment: Steps to deploy the application code to the EC2 instances.
+  
+ <img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/69909c1e-de4d-4ce2-83a6-d38d18a766d4" />
+ 
+ <img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/69772fce-d5d0-455c-8db0-30fadfc59bdd" />
+ 
+ <img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/aa9fcef2-ef32-44a5-a683-ad5ba49d8048" />
+
+
+
+ 
+
+
 
 
 
