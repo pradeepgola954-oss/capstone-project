@@ -22,3 +22,5 @@
 
 <img width="1920" height="1080" alt="2-EFS-SG- Project-1" src="https://github.com/user-attachments/assets/dbd9821e-3228-4ebe-82f9-4f45e00638dc" />
 
+# Step 3: Elastic File System (EFS)
+
