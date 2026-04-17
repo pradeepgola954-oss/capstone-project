@@ -24,3 +24,29 @@
 
 # Step 3: Elastic File System (EFS)
 
+► I opened Amazon EFS from the AWS Management Console.
+
+► Then, I clicked on Create file system to start the setup.
+
+► I provided a name like “EFS-File-System” for easy identification.
+
+► After that, I selected my existing VPC (My-Project-VPC).
+
+► I kept the recommended settings as default.
+
+► Finally, I proceeded to the next step.
+
+<img width="1920" height="1080" alt="3-EFS-File-System" src="https://github.com/user-attachments/assets/2de2057b-c591-4383-a432-5e8bdd1b98a2" />
+
+<img width="1920" height="1080" alt="4-EFS-File-System" src="https://github.com/user-attachments/assets/8485ff21-d5f2-4225-a347-51850587cd97" />
+
+<img width="1920" height="1080" alt="5-EFS-File-System" src="https://github.com/user-attachments/assets/9e65e378-d118-42b8-9020-2732167f3d02" />
+
+<img width="1920" height="1080" alt="6- EFS-File System" src="https://github.com/user-attachments/assets/d77a68c6-353d-4475-ba68-d7d62706066e" />
+
+
+
+
+
+
+
