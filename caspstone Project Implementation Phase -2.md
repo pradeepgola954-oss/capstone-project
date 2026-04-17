@@ -45,6 +45,27 @@
 <img width="1920" height="1080" alt="6- EFS-File System" src="https://github.com/user-attachments/assets/d77a68c6-353d-4475-ba68-d7d62706066e" />
 
 
+# Step 4: Launch EC2 Instance
+
+► I opened the AWS Console and navigated to the EC2 Dashboard, then clicked on Launch Instance.
+
+► I entered the instance name (e.g., Web-Server-AMI and EFS) and selected the Amazon Linux AMI.
+
+► I chose the instance type (t3.micro) and selected or created a key pair for SSH access.
+
+► In the network settings, I configured a security group allowing HTTP and SSH traffic, and keet the storage settings as default.
+
+► I reviewed the configuration in the Summary section and clicked on Launch Instance.
+
+<img width="1920" height="1080" alt="7-Web-Server-AMI and EFS" src="https://github.com/user-attachments/assets/6ae314ba-566e-4131-aa09-cec210814aec" />
+
+<img width="1920" height="1080" alt="8-Web-Server-AMI and EFS" src="https://github.com/user-attachments/assets/f70c92fb-4254-4633-a26e-d0e7d823cb10" />
+
+<img width="1920" height="1080" alt="9-Web-Server-AMI and EFS" src="https://github.com/user-attachments/assets/dc1c59eb-f317-4bf0-873a-ba714db0121e" />
+
+
+
+
 
 
 
