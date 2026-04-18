@@ -72,6 +72,29 @@
  <img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/69772fce-d5d0-455c-8db0-30fadfc59bdd" />
  
  <img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/aa9fcef2-ef32-44a5-a683-ad5ba49d8048" />
+ 
+# Step 5: Create AMI (Machine Image)
+
+► Select the instance → Click Actions → Image and templates → Create Image.
+
+► Enter an image name (e.g., AMI - Image for web-server-Project-1).
+
+► Add an optional description for better identification.
+
+► Choose whether to enable Reboot instance.
+
+► Verify storage (EBS volumes) settings.
+
+► Click Create Image to start the AMI creation process.
+
+<img width="1920" height="1080" alt="10-AMI - Image for web-server-Project-1" src="https://github.com/user-attachments/assets/aa1e9cdb-d238-48ba-8b2f-b7b10f31ac63" />
+
+<img width="1920" height="1080" alt="11-AMI - Image for web-server-Project-1" src="https://github.com/user-attachments/assets/66d98da5-a9b7-467b-8ac2-441ffd800054" />
+
+<img width="1920" height="1080" alt="12-AMI-Image for WEB-Server-Project-1" src="https://github.com/user-attachments/assets/89c0706f-23a5-45f5-9dbe-0f73d9e90849" />
+
+
+
 
 
 
