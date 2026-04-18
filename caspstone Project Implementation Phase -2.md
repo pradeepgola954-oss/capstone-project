@@ -105,6 +105,8 @@
 
 ► Configure storage (EBS volume size and type).
 
+► Click Create launch template to finalize
+
 <img width="1920" height="1080" alt="13-LT-For-Project-1" src="https://github.com/user-attachments/assets/985690d1-2bdd-49cb-89bb-75caffad6dc7" />
 
 <img width="1920" height="1080" alt="14-LT-For-Project-1" src="https://github.com/user-attachments/assets/2e5c3756-c0f5-40c8-93f9-f2b58f96225c" />
