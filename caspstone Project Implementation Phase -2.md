@@ -93,6 +93,28 @@
 
 <img width="1920" height="1080" alt="12-AMI-Image for WEB-Server-Project-1" src="https://github.com/user-attachments/assets/89c0706f-23a5-45f5-9dbe-0f73d9e90849" />
 
+# Step 4: Create Launch Template
+
+► Go to Amazon EC2 → Launch Templates → Create launch template.
+
+► Enter template name (e.g., LT-For-Project-1) and version description.
+
+► Select the AMI you created earlier (web server image).
+
+► Choose instance type (e.g., t3.micro) and security group (Web-Server-SG).
+
+► Configure storage (EBS volume size and type).
+
+<img width="1920" height="1080" alt="13-LT-For-Project-1" src="https://github.com/user-attachments/assets/985690d1-2bdd-49cb-89bb-75caffad6dc7" />
+
+<img width="1920" height="1080" alt="14-LT-For-Project-1" src="https://github.com/user-attachments/assets/2e5c3756-c0f5-40c8-93f9-f2b58f96225c" />
+
+<img width="1920" height="1080" alt="15-LT-For-Project-1" src="https://github.com/user-attachments/assets/8daef395-daca-40f3-acce-54d6cb86196a" />
+
+
+
+
+
 
 
 
