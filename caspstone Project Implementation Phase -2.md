@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="23-ALB-SG" src="https://github.com/user-attachments/assets/e74f4296-9cfb-4714-8948-9a71f4f4bd49" /><img width="3846" height="4425" alt="Final_Dia_CloudFolks_Capstone_1" src="https://github.com/user-attachments/assets/ae353b52-cd7a-49d7-93cd-1c3de9c23fe8" />
-
+<img width="3846" height="4425" alt="Final_Dia_CloudFolks_Capstone_1" src="https://github.com/user-attachments/assets/abd83d01-ccb7-47e6-80df-0ac0ace0315c" />
 
 # Step 2: Create the Security Group
 
