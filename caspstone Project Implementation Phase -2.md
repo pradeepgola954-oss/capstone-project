@@ -186,6 +186,7 @@
 
 
 📊 Results and Discussion
+
 🚀 Performance Improvements
 
  Before optimization, the application had slower response times and uneven load distribution.
