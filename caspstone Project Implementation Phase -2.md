@@ -188,20 +188,19 @@
 📊 Results and Discussion
 🚀 Performance Improvements
 
-● Before optimization, the application had slower response times and uneven load distribution.
-● After implementing Auto Scaling and Load Balancer, performance became stable and faster.
-● Traffic is now evenly distributed across multiple instances, reducing server overload.
-● Overall system reliability and availability have significantly improved.
+ Before optimization, the application had slower response times and uneven load distribution.
+ After implementing Auto Scaling and Load Balancer, performance became stable and faster.
+ Traffic is now evenly distributed across multiple instances, reducing server overload.
+●Overall system reliability and availability have significantly improved.
 
 💰 Cost Optimization
 
-● Costs were reduced by running only the required number of instances based on traffic.
-● Auto Scaling ensures no unnecessary resources are running during low demand.
-● Spot Instances can be used for additional cost savings in non-critical workloads.
-● Reserved Instances help reduce long-term infrastructure costs.
+ Costs were reduced by running only the required number of instances based on traffic.
+ Auto Scaling ensures no unnecessary resources are running during low demand.
+ Spot Instances can be used for additional cost savings in non-critical workloads.
+ Reserved Instances help reduce long-term infrastructure costs.
 
-🎯 Simple Interview Line
-
+🎯 
 "Our optimization improved performance by distributing traffic efficiently and reduced cost by using scalable and flexible AWS resources.
 
 
