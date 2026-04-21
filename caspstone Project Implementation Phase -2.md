@@ -143,6 +143,26 @@
 
 <img width="1920" height="1080" alt="19-ALB-Project-1" src="https://github.com/user-attachments/assets/17fada28-bc5b-4057-908a-79749118a820" />
 
+# Create Target Group
+
+► Go to Amazon Web Services → EC2 → Target Groups → Create target group
+► Choose target type (e.g., IP addresses / Instances)
+► Enter target group name (Web Application,and Test Application)
+► Select protocol (HTTP) and port (80 / 8080)
+► Select VPC (your project VPC)
+► Configure health check (default HTTP path /)
+► Click Next → Register targets (EC2 instances or IPs)
+► Click Create target group to finalize
+
+<img width="1920" height="1080" alt="20- target-Group Web Application" src="https://github.com/user-attachments/assets/572163dd-59a7-4dfd-b84b-3b811105a62c" />
+
+<img width="1920" height="1080" alt="21-Test-Application" src="https://github.com/user-attachments/assets/e3e5490a-766d-409d-9cbc-3aed4ce3ec2d" />
+
+<img width="1920" height="1080" alt="22-Target-Group Final" src="https://github.com/user-attachments/assets/4e4aab13-363f-4176-88e0-b023c28a0ef0" />
+
+
+
+
 
 
 
