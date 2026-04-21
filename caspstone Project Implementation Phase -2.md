@@ -1,4 +1,4 @@
-<img width="3846" height="4425" alt="Final_Dia_CloudFolks_Capstone_1" src="https://github.com/user-attachments/assets/ae353b52-cd7a-49d7-93cd-1c3de9c23fe8" />
+<img width="1920" height="1080" alt="23-ALB-SG" src="https://github.com/user-attachments/assets/e74f4296-9cfb-4714-8948-9a71f4f4bd49" /><img width="3846" height="4425" alt="Final_Dia_CloudFolks_Capstone_1" src="https://github.com/user-attachments/assets/ae353b52-cd7a-49d7-93cd-1c3de9c23fe8" />
 
 
 # Step 2: Create the Security Group
@@ -166,6 +166,26 @@
 <img width="1920" height="1080" alt="21-Test-Application" src="https://github.com/user-attachments/assets/e3e5490a-766d-409d-9cbc-3aed4ce3ec2d" />
 
 <img width="1920" height="1080" alt="22-Target-Group Final" src="https://github.com/user-attachments/assets/4e4aab13-363f-4176-88e0-b023c28a0ef0" />
+
+# 🔹 Security Group Create Steps
+► Go to Amazon Web Services → EC2 → Security Groups → Create security group
+
+► Enter security group name (e.g., ALB-SG) and description
+
+► Select VPC (your project VPC)
+
+► Add inbound rule (HTTP – Port 80, Source: Anywhere 0.0.0.0/0)
+
+► (Optional) Add HTTPS rule (Port 443)
+
+► Keep outbound rule as default (Allow all traffic)
+
+<img width="1920" height="1080" alt="23-ALB-SG" src="https://github.com/user-attachments/assets/e03b895c-2ccc-43bf-8f1e-4393df2cdd1f" />
+
+<img width="1920" height="1080" alt="24-ALB-SG" src="https://github.com/user-attachments/assets/ec751a91-c935-46ae-8427-01bf5bdb29a0" />
+
+
+
 
 
 
