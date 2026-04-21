@@ -113,6 +113,39 @@
 
 <img width="1920" height="1080" alt="15-LT-For-Project-1" src="https://github.com/user-attachments/assets/8daef395-daca-40f3-acce-54d6cb86196a" />
 
+# Create Auto Scaling Group (ASG)
+
+► Go to Amazon EC2 → Auto Scaling Groups → Click Create Auto Scaling group
+
+► Enter Auto Scaling group name (e.g., ALB-Project-1)
+
+► Select launch template (e.g., LT-For-Project-1)
+
+► Click Next
+
+► Select your VPC
+
+► Choose at least 2 Availability Zones for high availability
+
+► Select private subnets (e.g., Private-Subnet-1A, Private-Subnet-1B)
+
+► Keep Balanced best effort as default
+
+► Click Next
+
+► Click Create Auto Scaling group
+
+<img width="1920" height="1080" alt="16-ALB-Project-1" src="https://github.com/user-attachments/assets/809266e9-c824-4837-87cc-1cb614ba1508" />
+
+<img width="1920" height="1080" alt="17-ALB-Project-1" src="https://github.com/user-attachments/assets/762e27f5-fed6-4508-8e64-694ff15fce91" />
+
+<img width="1920" height="1080" alt="18-ALB-Project-1" src="https://github.com/user-attachments/assets/20da4cc9-9e20-4077-be5c-ed2ceb48cc1c" />
+
+<img width="1920" height="1080" alt="19-ALB-Project-1" src="https://github.com/user-attachments/assets/17fada28-bc5b-4057-908a-79749118a820" />
+
+
+
+
 
 
 
