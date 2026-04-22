@@ -212,15 +212,7 @@
 <img width="1920" height="1080" alt="30-Edit ALB-Project-1 Target group" src="https://github.com/user-attachments/assets/a7954aaa-d020-4e54-a864-838f4f2769ae" />
 
 
-
-
-
-
-
-
-
-
-                                                               # Results and Discussion
+# Results and Discussion
 
 🚀 Performance Improvements
 
