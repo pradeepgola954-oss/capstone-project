@@ -183,6 +183,35 @@
 
 <img width="1920" height="1080" alt="24-ALB-SG" src="https://github.com/user-attachments/assets/ec751a91-c935-46ae-8427-01bf5bdb29a0" />
 
+# Application Load Balancer Setup 
+► Go to AWS Console → EC2 → Load Balancers → Create Load Balancer
+
+► Select Application Load Balancer (ALB)
+
+► Enter load balancer name (e.g., Project-1-ALB)
+
+► Choose scheme as Internet-facing
+
+► Select VPC (e.g., My-Project-VPC)
+
+► Choose at least 2 Availability Zones with public subnets
+
+► Attach security group (e.g., ALB-SG)
+
+► Add listeners (e.g., HTTP:80, HTTP:8080)
+
+► Click Create Load Balancer
+<img width="1920" height="1080" alt="25-Application-lode balancer, Project-1" src="https://github.com/user-attachments/assets/bc064284-5010-4154-9284-a914a0532b6a" />
+
+<img width="1920" height="1080" alt="26-Application-lode balancer, Project-1" src="https://github.com/user-attachments/assets/401aa84b-7451-42c6-9459-8bdacd4e09fa" />
+
+<img width="1920" height="1080" alt="27-Application-lode balancer, Project-1" src="https://github.com/user-attachments/assets/0597ea48-01e3-420a-aa46-4bd266fe751e" />
+
+<img width="1920" height="1080" alt="29-Application-Lode Balancer" src="https://github.com/user-attachments/assets/838d43d9-47ef-4c51-83c9-523cb9aff943" />
+
+<img width="1920" height="1080" alt="30-Edit ALB-Project-1 Target group" src="https://github.com/user-attachments/assets/a7954aaa-d020-4e54-a864-838f4f2769ae" />
+
+
 
 
 📊 Results and Discussion
